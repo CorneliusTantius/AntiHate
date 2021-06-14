@@ -1,5 +1,6 @@
 # AntiHate
 Aplikasi pendeteksi ujaran kebencian dalam bahasa Indonesia berbasis artificial intelligence.
+This model is fine-tuned from [Into BERT Model](https://github.com/indobenchmark/indonlu) and implemented to GUI using [Python TKinter](https://docs.python.org/3/library/tkinter.html)
 
 Created By:
 1. 2301860154 - Jonathan Kristanto
@@ -8,7 +9,7 @@ Created By:
 ---
 
 # Requirements
-* Windows specific GUI
+* Windows specific GUI app.
 * run `inst-req.bat` to prepare the requirements.
-* strongly recomended to use `Python version 3.7`
+* if you already own python makesure to use `Python version 3.7` (higher version may cause errors).
 ---
