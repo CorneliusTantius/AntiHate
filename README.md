@@ -8,9 +8,10 @@ Created By:
 3. 2301859650 - Cornelius Tantius
 ---
 
-# Requirements
-  * Windows specific GUI app.
+# Important Notes!!
+  * This is windows specific GUI app. (linux or mac os can still run it using shell `python` or `python3` command)
   * ### Make sure you have `64 bit python`! unless it won't work
+  * You can do a complete python uninstall and run the `inst-req.bat` too, it will install python for you, ALSO REMEMBER that your current pip packages will be lost
   * run `inst-req.bat` to prepare the requirements.
   * if you already own python makesure to use `Python version 3.7` (higher version may cause errors).
 ---
