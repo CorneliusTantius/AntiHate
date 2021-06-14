@@ -15,5 +15,6 @@ Created By:
 ---
 
 # Preview
-[Preview-1](/assets/preview1.PNG)
-[Preview-2](/assets/preview2.PNG)
+![Preview-1](https://github.com/CorneliusTantius/AntiHate/blob/main/bin/assets/preview1.PNG?raw=true)
+
+![Preview-2](https://github.com/CorneliusTantius/AntiHate/blob/main/bin/assets/preview2.PNG?raw=true)
