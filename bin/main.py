@@ -23,6 +23,7 @@ class App(tk.Tk):
         # Base Class
         self.title('AntiHate')
         self.geometry('900x650')
+        self.iconbitmap('assets/jokris-toungue.ico')
         self.resizable(width=False, height=False)
 
 
