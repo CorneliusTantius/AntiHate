@@ -5,6 +5,7 @@ python --version >nul 2>&1 &&(
 	timeout /t 4
 	cd bin 
 	echo "> Please wait, installing requirements will take some time"
+	pip install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html /f >nul 2>&1
 	pip install -r requirements.txt /f >nul 2>&1
 	echo "> Requirements prepped!"
 ) || (
@@ -15,6 +16,7 @@ python --version >nul 2>&1 &&(
 	echo "> Python installed, prepping requirements"
 	timeout /t 4
 	echo "> Please wait, installing requirements will take some time"
+	pip install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html /f >nul 2>&1
 	pip install -r requirements.txt /f >nul 2>&1
 	echo "> Requirements prepped!"
 )
