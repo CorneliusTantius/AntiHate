@@ -1,0 +1,8 @@
+#3edbf0 - light fresh blue
+#77acf1 - light dead blue
+#e1e8eb - soft ash
+#343a40 - primary font color
+#334443 - secondary font color
+
+#f54748 - reddanger
+#77acf1 - greensafe
