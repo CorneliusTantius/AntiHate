@@ -9,9 +9,10 @@ Created By:
 ---
 
 # Requirements
-* Windows specific GUI app.
-* run `inst-req.bat` to prepare the requirements.
-* if you already own python makesure to use `Python version 3.7` (higher version may cause errors).
+  * Windows specific GUI app.
+  * ### Make sure you have `64 bit python`! unless it won't work
+  * run `inst-req.bat` to prepare the requirements.
+  * if you already own python makesure to use `Python version 3.7` (higher version may cause errors).
 ---
 
 # Preview
