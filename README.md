@@ -15,5 +15,6 @@ Created By:
 ---
 
 # Preview
-[Preview-1](/assets/preview1.PNG)
-[Preview-2](/assets/preview2.PNG)
+![Preview-1](/assets/preview1.PNG)
+
+![Preview-2](/assets/preview2.PNG)
