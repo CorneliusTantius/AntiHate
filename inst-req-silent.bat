@@ -13,7 +13,7 @@ python --version >nul 2>&1 &&(
 	echo "> Python not found, installing"
 	timeout /t 4
 	cd bin
-	pyt.exe /quiet InstallAllUsers=1 PrependPath=1
+	pyt64.exe /quiet InstallAllUsers=1 PrependPath=1
 	echo "> Python installed, prepping requirements"
 	timeout /t 4
 	python -m pip install --upgrade pip
